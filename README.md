@@ -25,7 +25,7 @@ Installation using Visual Studio
 ## Prerequisites
 An Basic understanding of C#, NuGet Packages and Visual Studio.
 
-##Usage
+## Usage
 After Installation, to use the package, simply call the name as shown below:
 
 ```sh
@@ -68,9 +68,9 @@ namespace TestingPackage
 🤝 Contributing
 Contributions, issues, and more feature requests are welcome.Get in touch.
 
-##Github Link:
+## Github Link:
 - [Click here](https://github.com/techflow21/MathematicalFormulas)
 
 ## Contact:
-GitHub: @techflow21
-LinkedIn: @sobtech
+GitHub - [Click here](https://github.com/techflow21/MathematicalFormulas)
+LinkedIn - [Click here](https://linkedin.com/in/sobtech/)
