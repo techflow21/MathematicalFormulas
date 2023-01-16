@@ -26,7 +26,7 @@ Installation using Visual Studio
 An Basic understanding of C#, NuGet Packages and Visual Studio.
 
 ## Usage
-After Installation, to use the package, simply call the name of the package and then create an object instance of the class Formulas to access the formula methods as shown below:
+After Installation, to use the package, simply call the name of the package and then call the class Formulas and dot to access the formula methods as shown below:
 
 ```sh
 using MathematicalFormulas;
@@ -36,7 +36,7 @@ namespace TestingPackage
     {
         static void Main(string[] args)
         {
-	  Formulas formula = new();
+	  double result = Formulas.SimpleInterest(3500, 2.5, 2);
           //some code here...
         }
     }
@@ -57,9 +57,7 @@ namespace TestingPackage
         {
 	   Console.WriteLine("Calculating Simple Interest");
 	   
-	   Formulas formula = new();
-	   
-	   double result = formula.SimpleInterest(2800, 2.3, 2);
+	   double result = Formulas.SimpleInterest(2800, 2.3, 2);
 	   
 	   Console.WriteLine($"Simple Interest Result is: {result}");
 	   
