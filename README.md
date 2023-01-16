@@ -72,5 +72,4 @@ Contributions, issues, and more feature requests are welcome.Get in touch.
 - [Click here](https://github.com/techflow21/MathematicalFormulas)
 
 ## Contact:
-GitHub - [Click here](https://github.com/techflow21/MathematicalFormulas)
 LinkedIn - [Click here](https://linkedin.com/in/sobtech/)
