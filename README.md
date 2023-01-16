@@ -56,7 +56,7 @@ namespace TestingPackage
         {
 	   Console.WriteLine("Calculating Simple Interest");
 
-	   double result = SimpleInterest(2800, 2.3, 2);
+	   double result = Formulas.SimpleInterest(2800, 2.3, 2);
 	   
 	   Console.WriteLine($"Simple Interest Result is: {result}");
 	   
